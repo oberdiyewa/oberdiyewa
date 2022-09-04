@@ -9,7 +9,7 @@
 
 ![O.Berdiyewa GitHub stats](https://github-readme-stats.vercel.app/api?username=oberdiyewa&count_private=true&theme=chartreuse-dark&show_icons=true&hide_border=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oberdiyewa&theme=chartreuse-dark&repo=ezkahan&hide_border=true)](https://github.com/oberdiyewa/oberdiyewa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oberdiyewa&theme=chartreuse-dark&repo=oberdiyewa&hide_border=true)](https://github.com/oberdiyewa/oberdiyewa)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oberdiyewa&theme=chartreuse-dark&hide_border=true&layout=compact)](https://github.com/oberdiyewa/oberdiyewa)
 

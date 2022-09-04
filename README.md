@@ -1,6 +1,6 @@
 <!-- ### Hi, i am O. Berdiyewa 👋 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat-bold&color=%2300F723&size=32&multiline=true&width=700&height=55&lines=Welcome+to+O Berdiyewa+github+page)](https://oberdiyewa.github.io)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat-bold&color=%2300F723&size=32&multiline=true&width=700&height=55&lines=Welcome+to+O.Berdiyewa+github+page)](https://oberdiyewa.github.io)
 
 <!-- <a href="https://ezkahan.github.io">
 	<img alt="O.Berdiyewa"
